@@ -1,0 +1,6 @@
+Insights from Sales Dashboard
+1. West region led in overall sales performance, followed by East and Central regions, while South had the lowest.
+
+2. Technology emerged as the top-selling category, contributing over 64K in sales — significantly higher than Furniture and Office Supplies.
+
+3. Sales showed a strong upward trend in late 2014, with November 2014 recording the highest monthly sales across the entire period.
